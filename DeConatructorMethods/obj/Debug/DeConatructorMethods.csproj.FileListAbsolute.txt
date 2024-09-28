@@ -1,0 +1,7 @@
+C:\Users\cigo_\source\repos\DeConatructorMethods\DeConatructorMethods\bin\Debug\DeConatructorMethods.exe.config
+C:\Users\cigo_\source\repos\DeConatructorMethods\DeConatructorMethods\bin\Debug\DeConatructorMethods.exe
+C:\Users\cigo_\source\repos\DeConatructorMethods\DeConatructorMethods\bin\Debug\DeConatructorMethods.pdb
+C:\Users\cigo_\source\repos\DeConatructorMethods\DeConatructorMethods\obj\Debug\DeConatructorMethods.csproj.AssemblyReference.cache
+C:\Users\cigo_\source\repos\DeConatructorMethods\DeConatructorMethods\obj\Debug\DeConatructorMethods.csproj.CoreCompileInputs.cache
+C:\Users\cigo_\source\repos\DeConatructorMethods\DeConatructorMethods\obj\Debug\DeConatructorMethods.exe
+C:\Users\cigo_\source\repos\DeConatructorMethods\DeConatructorMethods\obj\Debug\DeConatructorMethods.pdb
